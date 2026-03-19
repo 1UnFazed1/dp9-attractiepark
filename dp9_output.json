@@ -1,0 +1,58 @@
+{
+    "bezoeker": {
+        "id": 1,
+        "naam": "Daan",
+        "leeftijd": 21,
+        "lengte": 182,
+        "gewicht": 78
+    },
+    "temperatuur": 8.6,
+    "dagprogramma": [
+        {
+            "id": 1,
+            "naam": "Sky Coaster",
+            "soort": "achtbaan",
+            "overdekt": 0,
+            "geschatte_wachttijd": 25,
+            "doorlooptijd": 2,
+            "actief": 1
+        },
+        {
+            "id": 1,
+            "naam": "Sky Coaster",
+            "soort": "achtbaan",
+            "overdekt": 0,
+            "geschatte_wachttijd": 25,
+            "doorlooptijd": 2,
+            "actief": 1
+        },
+        {
+            "id": 4,
+            "naam": "Water Splash",
+            "soort": "attractie",
+            "overdekt": 0,
+            "geschatte_wachttijd": 20,
+            "doorlooptijd": 3,
+            "actief": 1
+        },
+        {
+            "id": 5,
+            "naam": "Snack Bar",
+            "soort": "horeca",
+            "overdekt": 1,
+            "geschatte_wachttijd": 8,
+            "doorlooptijd": 20,
+            "actief": 1
+        },
+        {
+            "id": 3,
+            "naam": "Gift Shop",
+            "soort": "winkel",
+            "overdekt": 1,
+            "geschatte_wachttijd": 5,
+            "doorlooptijd": 15,
+            "actief": 1
+        }
+    ],
+    "totale_tijd": 125
+}
